@@ -1,0 +1,51 @@
+function App() {
+  return (
+    <div>
+
+         <InlineStyleExample></InlineStyleExample>
+         <MyComponent></MyComponent>
+         <StyledComponentExample></StyledComponentExample>
+
+
+      
+      {/* 
+      <Router>
+          <nav>
+            <Link to="/Home">Home</Link>
+            <Link to="/about">About</Link>
+          </nav>
+         <Routes>
+             <Route path="/Home" element={<Home />} />
+             <Route path="/about" element={<About />} />
+          </Routes>
+    </Router>
+      
+    
+         <LoginForm></LoginForm>
+        
+        <UserCard  name = "Heang" age= {18} city ="TK"></UserCard>
+      
+         <Counter></Counter>
+         <br/>
+        <Button></Button>
+        <br/>
+        
+        <Users></Users>
+
+        <ThemedButton></ThemedButton>
+         <br/>
+         <ControlledInput></ControlledInput> 
+
+         <UncontrolledInput></UncontrolledInput>
+
+         <ValidationForm></ValidationForm>
+*/}
+
+
+ </div>
+        
+   
+  );
+}
+
+export default App;
